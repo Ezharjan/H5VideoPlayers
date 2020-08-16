@@ -1,0 +1,8 @@
+*.bat
+*.log
+runtime/*
+vendor/*
+*.xml
+*.log
+.idea
+.idea
